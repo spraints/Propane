@@ -2,7 +2,6 @@
 	Change the user id to your bot's user account
 */
 
-tr.text_message.message.user_1172315 { 
-  color: green !important;
-  font-weight: bold;
+tr.text_message.message.user_915164 .body { 
+  color: #bbb !important;
 }

@@ -18,7 +18,7 @@
   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
   THE SOFTWARE.
 */
-var displayCloudAppImages = true;
+var displayCloudAppImages = false;
 
 /* 
   Display CloudApp images inline.
