@@ -2,6 +2,11 @@
 	Change the user id to your bot's user account
 */
 
-tr.text_message.message.user_915164 .body { 
-  color: #bbb !important;
+/* Cranky PA */
+tr.text_message.message.user_927162 .body * {
+  color: #cbb !important;
+}
+/* Crankybot */
+tr.text_message.message.user_915164 .body * {
+  color: #bbc !important;
 }
